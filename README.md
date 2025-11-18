@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Aftab Uddin
-![](https://media.licdn.com/dms/image/v2/D5616AQGyUCO03Yd5QA/profile-displaybackgroundimage-shrink_350_1400/B56ZqYE3zwJ8Ac-/0/1763488007994?e=1764806400&v=beta&t=sC1yZKuytOK0R-2bVtcw1CPu07VQRM7_dhbOPd4IRsA)
+![](https://media.licdn.com/dms/image/v2/D5616AQFbVq1_NQhFNA/profile-displaybackgroundimage-shrink_350_1400/B56ZqYHutbKAAc-/0/1763488758068?e=1764806400&v=beta&t=Nbhce11VZ9xgqsjmVkq7ue1xXu-XL437gMaGoOguKm8)
 
 Hi! I'm Aftab — a dedicated web developer with a strong focus on building modern, responsive, and scalable web applications.
 I specialize in HTML, CSS, JavaScript, React, Firebase, MongoDB, Node.js, and Express.js, and I'm actively improving my skills through real-world projects.
