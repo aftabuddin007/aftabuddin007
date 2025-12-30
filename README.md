@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Aftab Uddin
-<h3 align="center">A passionate frontend developer from Faridgong, Chandpur, Bangladesh</h3>
+### Hi there 👋, my name is Aftab Uddin Ahmed
+<h3 align="center">A passionate Frontend Developer from Chandpur, Bangladesh</h3>
 
 ![](https://media.licdn.com/dms/image/v2/D5616AQFbVq1_NQhFNA/profile-displaybackgroundimage-shrink_350_1400/B56ZqYHutbKAAc-/0/1763488758068?e=1764806400&v=beta&t=Nbhce11VZ9xgqsjmVkq7ue1xXu-XL437gMaGoOguKm8)
 
@@ -72,10 +72,6 @@ Open to:
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aftabuddin007&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=aftabuddin007&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
