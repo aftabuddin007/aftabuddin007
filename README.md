@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQFbVq1_NQhFNA/profile-displaybackgroundimage-shrink_350_1400/B56ZqYHutbKAAc-/0/1763488758068?e=1768435200&v=beta&t=gjMs0Xj_KWwWL47v_wxFFozRksBekwGktHcs9vOIDko)]()
+[![MasterHead](https://i.ibb.co.com/gZ6gGk6H/Blue-and-White-Neon-Modern-Marketing-Facebook-Cover-1.png)]()
 
 
 
