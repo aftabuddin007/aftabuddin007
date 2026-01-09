@@ -78,12 +78,7 @@ Open to:
 
 
 
-<a href="https://github.com/aftabuddin007/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=aftabuddin007" />
-</a>
-<a href="https://github.com/aftabuddin007/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aftabuddin007&layout=compact&langs_count=8&card_width=320" />
-</a>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
