@@ -73,8 +73,6 @@ Open to:
 ![](https://github-readme-stats.vercel.app/api?username=aftabuddin007&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=aftabuddin007&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aftabuddin007&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-# aftabuddin007's GitHub stats:
-[![aftabuddin007's GitHub stats](https://github-readme-stats.vercel.app/api?username=aftabuddin007)](https://github.com/aftabuddin007/github-README-stats)
 
 
 
