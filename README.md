@@ -7,7 +7,7 @@
 
 ![](https://media.licdn.com/dms/image/v2/D5616AQFbVq1_NQhFNA/profile-displaybackgroundimage-shrink_350_1400/B56ZqYHutbKAAc-/0/1763488758068?e=1764806400&v=beta&t=Nbhce11VZ9xgqsjmVkq7ue1xXu-XL437gMaGoOguKm8)
 
-### About Me:
+# About Me:
 I'm a dedicated web developer with a strong focus on building modern, responsive, and scalable web applications.
 I specialize in HTML, CSS, JavaScript, React, Firebase, MongoDB, Node.js, and Express.js, and I'm actively improving my skills through real-world projects.
 
