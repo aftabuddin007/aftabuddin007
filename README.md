@@ -2,7 +2,7 @@
 
 
 
-### Hi there 👋, This is Aftab Uddin Ahmed &
+## Hi there 👋, This is Aftab Uddin Ahmed &
 <h3 align="center">A passionate Frontend Developer from Mirpur,Dhaka, Bangladesh</h3>
 
 ![](https://media.licdn.com/dms/image/v2/D5616AQFbVq1_NQhFNA/profile-displaybackgroundimage-shrink_350_1400/B56ZqYHutbKAAc-/0/1763488758068?e=1764806400&v=beta&t=Nbhce11VZ9xgqsjmVkq7ue1xXu-XL437gMaGoOguKm8)
