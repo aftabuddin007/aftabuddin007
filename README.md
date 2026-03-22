@@ -33,7 +33,7 @@ My GitHub is a reflection of my growth—featuring full-stack apps, UI experimen
 • Collaborate with developers on GitHub
 • Grow as a full-stack engineer
 
-Open to:
+#Open to:
 • Collaboration on open-source projects
 • Web development internships
 • MERN stack project ideas
