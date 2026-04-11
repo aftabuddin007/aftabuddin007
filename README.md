@@ -3,7 +3,7 @@
 
 
 ## Hi there 👋, This is Aftab Uddin Ahmed &
-<h3 align="center">A passionate Frontend Developer from Mirpur,Dhaka, Bangladesh</h3>
+<h3 align="center">A passionate Frontend Developer from Mirpur,Dhaka,Bangladesh</h3>
 
 ![](https://media.licdn.com/dms/image/v2/D5616AQFbVq1_NQhFNA/profile-displaybackgroundimage-shrink_350_1400/B56ZqYHutbKAAc-/0/1763488758068?e=1764806400&v=beta&t=Nbhce11VZ9xgqsjmVkq7ue1xXu-XL437gMaGoOguKm8)
 
@@ -22,21 +22,21 @@ My GitHub is a reflection of my growth—featuring full-stack apps, UI experimen
 • Solve bugs, optimize code, and improve UI/UX
 
 # What I’m Learning Now:
-• Advanced React patterns
-• Backend architecture & scalable APIs
-• Production-level deployment
-• Real-time databases & performance optimization
+• Advanced React patterns.
+• Backend architecture & scalable APIs.
+• Production-level deployment.
+• Real-time databases & performance optimization.
 
 # Goals:
-• Become a professional Full Stack Developer
-• Build impactful open-source projects
-• Collaborate with developers on GitHub
-• Grow as a full-stack engineer
+• Become a professional Full Stack Developer.
+• Build impactful open-source projects.
+• Collaborate with developers on GitHub.
+• Grow as a full-stack engineer.
 
 #Open to:
-• Collaboration on open-source projects
-• Web development internships
-• MERN stack project ideas
+• Collaboration on open-source projects.
+• Web development internships.
+• MERN stack project ideas.
 
 ## ✍️ My Portfolio  
 🔗 [Visit My Portfolio](https://mdaftabportfolio.netlify.app)
