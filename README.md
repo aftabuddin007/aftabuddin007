@@ -19,38 +19,38 @@ My GitHub reflects my journey as a developer—showcasing full-stack application
 
 # 🚀 What I Do  
 
-- Build responsive, high-performance web applications  
-- Develop full-stack MERN applications with clean architecture  
-- Design and integrate RESTful APIs  
-- Implement secure authentication & authorization systems  
-- Work with Firebase (Authentication, Hosting, Database)  
-- Optimize UI/UX and improve application performance  
+- Build responsive, high-performance web applications.  
+- Develop full-stack MERN applications with clean architecture.  
+- Design and integrate RESTful APIs.  
+- Implement secure authentication & authorization systems.  
+- Work with Firebase (Authentication, Hosting, Database).  
+- Optimize UI/UX and improve application performance.  
 
 ---
 
 # 📚 Currently Learning  
 
-- Advanced React patterns (hooks, performance optimization)  
-- Scalable backend architecture & API design  
-- Production-level deployment & system design  
-- Real-time applications and database optimization  
+- Advanced React patterns (hooks, performance optimization).  
+- Scalable backend architecture & API design.  
+- Production-level deployment & system design.  
+- Real-time applications and database optimization.
 
 ---
 
 # 🎯 Career Goals  
 
 - Become a professional **Full Stack Engineer**  
-- Build impactful, real-world, and scalable applications  
+- Build impactful, real-world, and scalable applications.  
 - Contribute to meaningful **open-source projects**  
-- Collaborate with developers and grow within strong engineering teams  
+- Collaborate with developers and grow within strong engineering teams.  
 
 ---
 
 # 🤝 Open To Opportunities  
 
-- Open-source collaboration  
-- Frontend / Full Stack internships  
-- MERN stack projects & freelance opportunities  
+- Open-source collaboration.  
+- Frontend / Full Stack internships.  
+- MERN stack projects & freelance opportunities.  
 
 ---
 
