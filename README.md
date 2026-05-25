@@ -130,7 +130,6 @@ My GitHub reflects my journey as a developer—showcasing full-stack application
 
 ![Aftab's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=aftabuddin007&show_icons=true&theme=transparent)
 
-![Aftab's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=aftabuddin007&hide=contribs,prs)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
